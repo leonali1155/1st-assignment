@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+   
+
+}
+.image{
+
+   
+    background-color:white;
+    margin: auto;
+    
+    
+}
+.bacground-img{
+    margin-top: 20px;
+    background-image: url('../image/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 1320px;
+    border-radius: 30px;
+    margin: auto;
+
+}
+.party{
+    padding:250px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.off{
+    text-align: center;
+    color: #F00;
+    font-size: 80px;
+}
+.off h3{
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+.off h2{
+    color: black;
+    margin-top: 60px;
+    font-size: 50px;
+
+}
+.happy{
+    background-image: url('../image/New\ Year\ Photo.png');
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 1320px;
+    border-radius: 30px;
+    margin-left: 510px;
+    margin-top: 80px;
+}
+.midnight{
+    background-image: url('../image/Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 1320px;
+    border-radius: 30px;
+    margin:auto;
+}
+.mid-1{
+    color: white;
+    font-size: ;
+    padding-top: 300px;
+    padding-left: 30px;
+    width: 640px;
+
+
+}
+.mid-1 h2{
+    font-size: 60px;
+    padding-bottom: 10px;
+
+}
+.mid-1 button{
+    width: 100px;
+    background-color:rgba(7, 2, 17, 0.00);
+    color: aliceblue;
+    border: 0;
+    border-radius: 5px;
+}
+button h3{
+    font-size: 20px;
+}
+.mid-1 h4{
+    color:rgba(255, 255, 255, 0.80);
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.mid-2{
+    background-image: url('../image/Group\ 70.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 950px;
+    border-radius: 30px;
+    background-position: right top;
+    margin-top: -500px;
+    margin-left: 150px;
+}
+.hotel{
+    text-align: center;
+    background-color:#f2e1eb;
+    height: 210px;
+    margin: 20px 300px 0;
+    border-radius: 5px;
+    padding-top: 30px;
+    
+}
+.hotel button{
+    background-color: #F00;
+    border: 0;
+    border-radius: 2px;
+    width: 120px;
+    height: 35px;
+    margin-top: 35px;
+
+}
+.hotel h2{
+    margin-top: 15px;
+}
+.function{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.function p{
+    margin: 20px 500px;
+}
+
+.col{
+    color: #F00;
+    
+}
